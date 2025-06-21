@@ -15,6 +15,4 @@ Run `./backup.sh` manually or let it run automatically via cron.
 ## Author
 Gumma Bhargavi
 
-git add README.md
-git commit -m "Add README.md"
-git push
+
